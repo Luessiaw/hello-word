@@ -2,4 +2,4 @@
 Join GitHub!
 
 First Day at GitHub!
-Following the Guide.
+Just Following the Guide.
